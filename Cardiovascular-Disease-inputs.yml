@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/acute-cardiovascular-disease---primary.py
+inputModule3:
+  class: File
+  path: python/myocardial-cardiovascular-disease---primary.py
+inputModule4:
+  class: File
+  path: python/subendocardial-cardiovascular-disease---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-disease-anterior---primary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-disease-stenosis---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-disease-inferior---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-disease-aborted---primary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-disease-posterior---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-disease-elevation---primary.py
+inputModule11:
+  class: File
+  path: python/cardiovascular-disease-unspecif---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-cardiovascular-disease---primary.py
+inputModule13:
+  class: File
+  path: python/precerebral-cardiovascular-disease---primary.py
+inputModule14:
+  class: File
+  path: python/cardiovascular-disease-haemorrhage---primary.py
+inputModule15:
+  class: File
+  path: python/postoperative-cardiovascular-disease---primary.py
+inputModule16:
+  class: File
+  path: python/cardiovascular-disease-cardiac---primary.py
+inputModule17:
+  class: File
+  path: python/subsequent-cardiovascular-disease---primary.py
+inputModule18:
+  class: File
+  path: python/other-cardiovascular-disease---primary.py
+inputModule19:
+  class: File
+  path: python/cardiovascular-disease-specified---primary.py
+inputModule20:
+  class: File
+  path: python/cardiovascular-disease-thrombosis---primary.py
+inputModule21:
+  class: File
+  path: python/cardiovascular-disease-complication---primary.py
+inputModule22:
+  class: File
+  path: python/cardiovascular-disease-rupture---primary.py
+inputModule23:
+  class: File
+  path: python/cardiovascular-disease-embolism---primary.py
+inputModule24:
+  class: File
+  path: python/cardiovascular-disease-haemopericardium---primary.py
+inputModule25:
+  class: File
+  path: python/cardiovascular-disease-defect---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
